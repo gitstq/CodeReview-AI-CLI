@@ -1,0 +1,10 @@
+# CodeReview-AI-CLI
+# Zero-dependency core - all functionality uses Python standard library only
+# This file is provided for optional development dependencies
+
+# Optional: For enhanced terminal experience (falls back to standard library)
+# colorama>=0.4.4; platform_system=="Windows"
+
+# Optional: For testing
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
